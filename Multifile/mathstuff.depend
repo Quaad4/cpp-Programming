@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621619172 source:e:\downloads\c++ work\mathstuff\mathstuff.cpp
+	<iostream>
+	"mathutils.h"
+
+1621618050 e:\downloads\c++ work\mathstuff\mathutils.h
+
+1621618086 source:e:\downloads\c++ work\mathstuff\mathutils.cpp
+	"mathutils.h"
+
