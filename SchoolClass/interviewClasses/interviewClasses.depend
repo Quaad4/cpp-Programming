@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1627220121 source:e:\downloads\bucky\extra c++\interviewclasses\main.cpp
+	<iostream>
+	"School.h"
+	"Teacher.h"
+	"Student.h"
+
+1627219864 e:\downloads\bucky\extra c++\interviewclasses\school.h
+	<iostream>
+
+1627219646 source:e:\downloads\bucky\extra c++\interviewclasses\school.cpp
+	"School.h"
+
+1627219990 source:e:\downloads\bucky\extra c++\interviewclasses\teacher.cpp
+	"Teacher.h"
+
+1627219864 e:\downloads\bucky\extra c++\interviewclasses\teacher.h
+	"school.h"
+
+1627220225 e:\downloads\bucky\extra c++\interviewclasses\student.h
+	"Teacher.h"
+
+1627220212 source:e:\downloads\bucky\extra c++\interviewclasses\student.cpp
+	"Student.h"
+
